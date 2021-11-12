@@ -9,4 +9,5 @@ You can become a paid member and participate in many different ways, even though
 Open Source projects are often built on top of older, commercial code. We work to support those legacy pieces of code to ensure that the new software we create does not inadvertently break those older, already-established open-source projects. 
 If you’re working on an Open Source project with a commercial dependency that needs some help or is about to be published, we can be of tremendous help with helping make that transition work.
 I have worked with companies like <a href="https://sunpharma.com/">Sun Pharma</a>, <a href="https://ajantaproducts.com/
-/">Ajanta Products</a>, <a href="https://www.cipla.com/">Cipla</a>, and much more.
+/">Ajanta Products</a>, <a href="https://www.cipla.com/">Cipla</a>, and much more. 
+Currently, the pharmaceutical industry is actively developing, where modern IT developments are actively used.  By tracking all the activities and reactions on the market, manufacturers are able to take advantage of all the possibilities of Big Data, by allowing them to quickly obtain vital information about their products in order to prevent any major problems at any moment while eliminating errors and saving time.
